@@ -1,1 +1,2 @@
 # CAC2019
+# The following analyses and visualizations were performed for Cunningham, K.T. & Haley, K.L. (2019). Lexical entropy quantifies discourse production severity. Poster presentation, *The 49th Clinical Aphasiology Conference*, Whitefish, MT, May 29, 2019. The file "data.csv" represents the data set. To replicate, one will have to read the data into R and manipulate the dataframes as you wish. 
